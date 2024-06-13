@@ -532,7 +532,7 @@ body {
 }
 .grid .article-1{
   position: relative;
-  background-image: url(/images/post-3-copyright-1170x658.jpg);
+  background-image: url(post-3-copyright-1170x658.jpg);
   background-position:top;
   background-size:900px;
   grid-column:span 2;
@@ -545,7 +545,7 @@ body {
   position: relative;
   background-position:center;
   background-size:419px;
-  background-image: url(/images/post-12-copyright-760x428.jpg);
+  background-image: url(post-12-copyright-760x428.jpg);
   grid-column:3;
   grid-row:1;
 }
@@ -556,7 +556,7 @@ body {
   position: relative;
   background-position:center; 
   background-size:420px;
-  background-image: url(/images/post-5-copyright-760x428.jpg);
+  background-image: url(post-5-copyright-760x428.jpg);
 }
 .grid .article-4{
   display: flex;
@@ -565,7 +565,7 @@ body {
   position: relative;
   background-position:top;
   background-size:607px;
-  background-image: url(/images/post-6-copyright-760x428.jpg);
+  background-image: url(post-6-copyright-760x428.jpg);
   grid-column:3/5;
 }
 .grid .overlay {
@@ -577,7 +577,7 @@ body {
   background-color: rgba(0, 0, 0, 0.5);
 }
 .data1{
-  position: relative;
+  position: absolute;
   top: 275px;
   left: 25px;
   font-family: "Roboto Condensed", sans-serif;
